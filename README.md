@@ -1,4 +1,4 @@
-# Create database Deforestation;
+Create database Deforestation; 
 
 select * from land_area;
 select * from forest_area;
